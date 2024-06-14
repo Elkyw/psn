@@ -1,0 +1,14 @@
+{
+  "name": "tix",
+  "version": "1.4.8",
+  "description": "cute dns for cute web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruru",
+  "license": "ISC",
+  "dependencies": {
+    "dns-packet": "^5.6.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "ruru.uwu": {
+        "type": "A",
+        "data": "127.0.0.1"
+    },
+    "register.it": {
+        "type": "A",
+        "data": "4.5.6.7"
+    }
+}
